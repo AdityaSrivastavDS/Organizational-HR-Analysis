@@ -59,16 +59,16 @@ It combines raw HR analytics data with aggregated reports and visual summaries t
 ## 📊 Key Visualizations
 
 ### Steps Performed
-![Steps Perfoemd](steps.png)
+![Steps Perfoemd](resources/steps.png)
 
 ### Average Monthly Income and Rate by Department
-![Average Monthly Income and Rate](income_hike.png)
+![Average Monthly Income and Rate](resources/income_hike.png)
 
 ### Average Career Span by Department
-![Average Years Spend in Company](career_span.png)
+![Average Years Spend in Company](resources/career_span.png)
 
 ### Final Visualization
-![Final Visual Analysis](final_visual.png)
+![Final Visual Analysis](resources/final_visual.png)
 
 ---
 
